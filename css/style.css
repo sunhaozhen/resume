@@ -257,7 +257,9 @@ h3.clr4{
   width: 80%;
 }
 }
+.img1{display: none}
 @media (max-width: 768px){
+  .img1{display: block}
 .sidebar {
   width: 22%;
 }
@@ -341,6 +343,7 @@ address span {
 }
 }
 @media (max-width: 640px){
+  
 .sidebar {
   width: 100%;
 }
